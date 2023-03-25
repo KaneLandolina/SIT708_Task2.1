@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">218692411_Task2</string>
+
+    <string name="sourceString">Choose a Unit</string>
+    <string name="destinationString">Choose a Unit</string>
+
+    <string-array name="sourceArray">
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+    </string-array>
+
+    <string-array name="destinationArray">
+        <item>Millimeter</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+    </string-array>
+
+</resources>
